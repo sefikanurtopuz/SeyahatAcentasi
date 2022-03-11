@@ -6,7 +6,7 @@
 
 ### VeriTabanı
 * MsSQL sql dili ve Microsoft SQL Server Management veritabanı yönetim sistemi
-* Projenin backup dosyası SQL klasöründedir.
+* Projenin backup dosyası backup klasöründedir.
 * Proje açılışında giriş sayfası açılmaktadır.
 >Kullanıcı adı: admin  
 >Şifre:123
